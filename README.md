@@ -21,3 +21,7 @@
 - All Toy Page
 - My Toy Page
 - Add toy Page
+
+## Add Toy 
+- Here you can done Update work
+- Here you can done delete work
