@@ -12,3 +12,12 @@
 - Add A Toy
 - Blogs
 - User profile picture.
+
+## Pages
+- Login page
+- Registration Page
+- Home Page
+- Blogs page
+- All Toy Page
+- My Toy Page
+- Add toy Page
