@@ -28,7 +28,19 @@ Two options for client-side token storage: localStorage and cookies. The two hav
               <div class="bg-gray-900 p-4">
                 <div class="text-white">
                     <h1 class="text-2xl font-bold">2. Compare SQL and NoSQL databases?</h1>
-                    <p class="text-gray-300">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eleifend quam sit amet semper faucibus. Morbi pellentesque mattis sem sed cursus. Integer bibendum tellus eu libero mollis, id vestibulum ex faucibus. Fusce ullamcorper neque et augue aliquam, et fringilla urna volutpat. Vestibulum pharetra justo nisl, vitae finibus ante blandit a. Nunc a efficitur leo, ut placerat elit. Aliquam tincidunt lectus vel lorem pharetra vulputate. Aliquam et ultricies nunc, eu ultrices lectus. Ut in nulla sem. Cras non arcu ac sem vestibulum dignissim. Fusce elementum congue diam, in lobortis erat fringilla in. Sed lobortis nisl et magna dignissim, eu viverra tortor pellentesque.</p>
+                    <p class="text-gray-300">Answer:
+SQL is a domain-specific language used to query and manage data. It works by allowing users to query, insert, delete, and update records in relational databases. SQL also allows for complex logic to be applied through the use of transactions and embedded procedures such as stored functions or views.
+NoSQL is preferred over SQL in many cases because it offers more flexibility and scalability. The primary benefit of using a NoSQL system is that it provides developers with the ability to store and access data quickly and easily, without the overhead of a traditional relational database. As a result, development teams can focus on delivering features and core business logic faster, without worrying about the underlying data storage implementation. 
+SQL: Relational database management system (RDBMS)
+NoSQL: Non-relational database management system.
+SQL: Suitable for structured data with predefined schema.
+NoSQL: Suitable for unstructured and semi-structured data.
+
+SQL: Data is stored in tables with columns and rows.
+NoSQL: Data is stored in collections or documents.
+SQL: Examples: MySQL, PostgreSQL, Oracle, SQL Server, Microsoft SQL Server.
+NoSQL: Examples: MongoDB, Cassandra, Couchbase, Amazon DynamoDB, Redis.
+</p>
                 </div>
             </div>
                <hr />
