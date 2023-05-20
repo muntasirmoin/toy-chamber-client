@@ -25,3 +25,9 @@
 ## Add Toy 
 - Here you can done Update work
 - Here you can done delete work
+
+## Environment variable
+- Use the Environment variable to hide the Firebase config keys and Mongodb credentials.
+
+## CRUD operation
+- show relevant notification with a meaningful message.
