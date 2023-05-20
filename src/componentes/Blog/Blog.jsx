@@ -48,7 +48,10 @@ NoSQL: Examples: MongoDB, Cassandra, Couchbase, Amazon DynamoDB, Redis.
               <div class="bg-gray-900 p-4">
                 <div class="text-white">
                     <h1 class="text-2xl font-bold">3. What is express js? What is Nest JS ?</h1>
-                    <p class="text-gray-300">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eleifend quam sit amet semper faucibus. Morbi pellentesque mattis sem sed cursus. Integer bibendum tellus eu libero mollis, id vestibulum ex faucibus. Fusce ullamcorper neque et augue aliquam, et fringilla urna volutpat. Vestibulum pharetra justo nisl, vitae finibus ante blandit a. Nunc a efficitur leo, ut placerat elit. Aliquam tincidunt lectus vel lorem pharetra vulputate. Aliquam et ultricies nunc, eu ultrices lectus. Ut in nulla sem. Cras non arcu ac sem vestibulum dignissim. Fusce elementum congue diam, in lobortis erat fringilla in. Sed lobortis nisl et magna dignissim, eu viverra tortor pellentesque.</p>
+                    <p class="text-gray-300">Answer:
+Express.js: Express.js is a free and open-source web application framework that works on top of Node.js web server functionality to simplify its APIs and add helpful new features. It makes it easier to organize your application’s functionality with middleware and routing. It adds helpful utilities to Node.js HTTP objects and facilitates the rendering of dynamic HTTP objects.
+Nest JS: Nest JS is a popular open-source, back-end framework for Node.js and TypeScript-based, server-side applications. Nest JS is a modular and adaptable framework that allows developers to easily organize their code into smaller and reusable modules. It also includes a robust dependency injection framework that simplifies managing application components and dependencies. Nest JS also supports several server-side rendering techniques and interfaces with other Node.js modules and tools.
+</p>
                 </div>
             </div>
               <hr />
