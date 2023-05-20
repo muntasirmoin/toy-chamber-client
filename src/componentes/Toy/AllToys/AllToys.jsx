@@ -4,7 +4,7 @@ import NavBar from '../../shared/NavBar/NavBar';
 import Footer from '../../shared/Footer/Footer';
 import AllToysTable from './AlltoysTable';
 
-
+// All toy page work done
 const AllToys = () => {
     const toys = useLoaderData();
     
