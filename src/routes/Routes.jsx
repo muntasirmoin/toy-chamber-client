@@ -30,17 +30,17 @@ const router = createBrowserRouter([
     {
         path: 'updateToy/:id',
         element: <PrivateRoute><UpdateToy></UpdateToy></PrivateRoute>,
-        loader: ({ params }) => fetch(`http://localhost:5000/singleToy/${params.id}`)
+        loader: ({ params }) => fetch(`https://toy-chamber-server.vercel.app/singleToy/${params.id}`)
     },
     {
         path: 'viewDetail/:id',
         element: <PrivateRoute><ViewDetails></ViewDetails></PrivateRoute>,
-        loader: ({ params }) => fetch(`http://localhost:5000/singleToy/${params.id}`)
+        loader: ({ params }) => fetch(`https://toy-chamber-server.vercel.app/singleToy/${params.id}`)
     },
     {
             path: 'alltoys',
             element: <AllToys></AllToys>,
-            loader: ()=> fetch(`http://localhost:5000/toys`),
+            loader: ()=> fetch(`https://toy-chamber-server.vercel.app/toys`),
             errorElement: <ErrorPage></ErrorPage>
     },
     {

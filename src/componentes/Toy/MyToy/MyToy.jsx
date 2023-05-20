@@ -12,7 +12,7 @@ const MyToy = () => {
 
     // 
     useEffect(() => {
-        fetch(`http://localhost:5000/myToys/${user?.email}`)
+        fetch(`https://toy-chamber-server.vercel.app/myToys/${user?.email}`)
           .then((res) => res.json())
           .then((data) => {
             console.log(data);
@@ -24,7 +24,7 @@ const MyToy = () => {
     const handleDelete = (id) => {
         const proceed = confirm('Are You sure you want to delete');
         if (proceed) {
-            fetch(`http://localhost:5000/myToys/${id}`, {
+            fetch(`https://toy-chamber-server.vercel.app/myToys/${id}`, {
                 method: 'DELETE'
             })
             .then(res => res.json())

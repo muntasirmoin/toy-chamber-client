@@ -27,7 +27,7 @@ const handleUpdate = event => {
     //         availableQuantity: body.availableQuantity,
     // 
 
-    fetch(`http://localhost:5000/updateToy/${toyID}`, {
+    fetch(`https://toy-chamber-server.vercel.app/updateToy/${toyID}`, {
         method: 'PUT',
         headers: {
             'content-type': 'application/json'
