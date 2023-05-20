@@ -5,6 +5,7 @@ import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { AuthContext } from '../../Providers/AuthProvider';
 
 const Login = () => {
+    // login page done
 
     const { signIn, user, signInGoogle } = useContext(AuthContext);
     const [errorMessage, setErrorMessage] = useState();
