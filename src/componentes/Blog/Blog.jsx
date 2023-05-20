@@ -60,7 +60,12 @@ Nest JS: Nest JS is a popular open-source, back-end framework for Node.js and Ty
               <div class="bg-gray-900 p-4">
                 <div class="text-white">
                     <h1 class="text-2xl font-bold">4. What is MongoDB aggregate and how does it work (google it)?</h1>
-                    <p class="text-gray-300">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eleifend quam sit amet semper faucibus. Morbi pellentesque mattis sem sed cursus. Integer bibendum tellus eu libero mollis, id vestibulum ex faucibus. Fusce ullamcorper neque et augue aliquam, et fringilla urna volutpat. Vestibulum pharetra justo nisl, vitae finibus ante blandit a. Nunc a efficitur leo, ut placerat elit. Aliquam tincidunt lectus vel lorem pharetra vulputate. Aliquam et ultricies nunc, eu ultrices lectus. Ut in nulla sem. Cras non arcu ac sem vestibulum dignissim. Fusce elementum congue diam, in lobortis erat fringilla in. Sed lobortis nisl et magna dignissim, eu viverra tortor pellentesque.</p>
+                    <p class="text-gray-300">In MongoDB, aggregation operations process the data records/documents and return computed results. It collects values from various documents and groups them together and then performs different types of operations on that grouped data like sum, average, minimum, maximum, etc to return a computed result.
+MongoDB provides three ways to perform aggregation :
+•	Aggregation pipeline
+•	Map-reduce function
+•	Single-purpose aggregation
+</p>
                 </div>
             </div>
               <hr />
