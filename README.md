@@ -6,13 +6,13 @@ Toy Chamber is a full-stack MERN e-commerce shop for kids’ toys. Users can bro
 
 ## 🚀 Tech Stack
 
-Frontend: React, React Router DOM, React Tabs, Tailwind CSS, DaisyUI
+- Frontend: React, React Router DOM, React Tabs, Tailwind CSS, DaisyUI
 
-Backend: Node.js, Express.js, MongoDB
+- Backend: Node.js, Express.js, MongoDB
 
-Auth & Hosting: Firebase
+- Auth & Hosting: Firebase
 
-Other: Environment config, CORS
+- Other: Environment config, CORS
 
 ---
 
