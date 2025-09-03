@@ -1,4 +1,4 @@
-# Welcome to 🚙 Toy Chamber 🚗
+# 🚙 Toy Chamber 🚗
 
 Toy Chamber is a full-stack MERN e-commerce shop for kids’ toys. Users can browse toys by category, search & filter items, view detailed information, and add toys to their cart (visible later in My Toys as history). An admin panel enables full management of toys and users with role-based access.
 
